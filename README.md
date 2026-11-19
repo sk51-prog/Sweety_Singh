@@ -9,6 +9,56 @@
 ![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-purple?style=for-the-badge)
 ![Enterprise Programs](https://img.shields.io/badge/Enterprise-Technology%20Programs-orange?style=for-the-badge)
 
-Experienced technology leader with expertise in Project Management, Agile Delivery, Test Management, QA Automation, and Digital Transformation initiatives. Passionate about leveraging Generative AI and Agentic AI to improve project delivery, operational efficiency, stakeholder communication, and business outcomes.
+xperienced technology leader with a strong background in Project Management, Agile Delivery, Test Management, QA Automation, and Digital Transformation initiatives. Passionate about leveraging Generative AI and Agentic AI to improve project delivery, operational efficiency, and business outcomes.
 
----
+🚀 About Me
+🎯 Project Manager with expertise in enterprise technology delivery
+Agile & Scrum practitioner driving high-performing teams
+Quality Engineering and Test Management leader
+Advocate for QA Automation and scalable testing frameworks
+Exploring Generative AI and Agentic AI applications in project management
+Based in New Jersey, USA
+💡 Areas of Expertise
+Project & Program Leadership
+Project Management
+Program Governance
+Stakeholder Management
+Risk & Issue Management
+Strategic Planning
+Agile Delivery
+Agile Project Delivery
+Scrum & SAFe Methodologies
+Sprint Planning & Execution
+Release Management
+Agile Transformation
+Quality Engineering
+Test Strategy & Planning
+Test Management
+QA Automation
+Automation Framework Development
+Quality Assurance Leadership
+Digital & AI Innovation
+Digital Transformation
+Generative AI
+Agentic AI Systems
+AI-Powered Project Management
+Process Automation
+📜 Certifications
+PMP® Certification (In Progress)
+Scrum Certifications
+AI & Generative AI Certifications
+🌱 Current Focus
+Building AI-enabled Project Management capabilities
+Learning and implementing Agentic AI systems
+Driving Automation Strategy and Quality Engineering excellence
+Supporting Agile Transformation initiatives
+Exploring practical applications of AI in enterprise delivery
+🤝 Let's Connect
+LinkedIn: www.linkedin.com/in/sweety-singh
+🛠️ Key Skills
+
+Project Management • Agile • Scrum • SAFe • Test Management • QA Automation • Stakeholder Management • Risk Management • Program Governance • Digital Transformation • Generative AI • Agentic AI • Leadership
+
+📈 Professional Mission
+
+Deliver business value through effective project leadership, agile execution, quality engineering excellence, automation, and emerging AI technologies.
